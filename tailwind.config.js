@@ -4,19 +4,20 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        black: "#151B32",
         gray: "#E5E5E5",
-        green: "#00D98B",
+        smoke: "#FBFCFF",
         border: "#C9C9DA",
-        blue: "#121633",
+        blue: "#849FFF",
       },
     },
     fontSize: {
       xs: ".75rem",
-      sm: "12px",
+      sm: "14px",
       tiny: ".875rem",
-      base: "14px",
+      base: "16px",
       lg: "1.125rem",
-      xl: "20px",
+      xl: "18px",
       title: "32px",
       "2xl": "24px",
       "3xl": "48px",
